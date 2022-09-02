@@ -2030,10 +2030,11 @@ declare namespace Eris {
       directMessageReactions:      8192;
       directMessageTyping:         16384;
       guildScheduledEvents:        65536;
+      messageContent:              32768;
       autoModerationConfiguration: 1048576;
       autoModerationExecution:     2097152;
       allNonPrivileged:            3243773;
-      allPrivileged:               258;
+      allPrivileged:               33026;
       all:                         3244031;
     };
     InteractionResponseTypes: {
